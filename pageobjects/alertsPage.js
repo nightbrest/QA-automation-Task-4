@@ -14,7 +14,7 @@ const selectors = {
     closeSmallModBtn: '#closeSmallModal',
     closeLargeModBtn: '#closeLargeModal',
     windowText: '//*[contains(text(),"Knowledge")]'
-
+// 1
 };
 
 class AlertstsPage extends Page {
