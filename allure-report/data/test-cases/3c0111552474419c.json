@@ -1,0 +1,62 @@
+{
+  "uid" : "3c0111552474419c",
+  "name" : "Given I am on \"Interactions\" module page with url \"https://demoqa.com/interaction\"",
+  "fullName" : "Testing and verifying of \"Sortable\" tab items in \"Interactions\" module: 1. As a user, I can click \"Sortable\" button.Given I am on \"Interactions\" module page with url \"https://demoqa.com/interaction\"",
+  "historyId" : "728a0686e3e7ddebf5f8a75ccaa0c33c",
+  "time" : {
+    "start" : 1645202203295,
+    "stop" : 1645202207482,
+    "duration" : 4187
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-5"
+  }, {
+    "name" : "suite",
+    "value" : "Testing and verifying of \"Sortable\" tab items in \"Interactions\" module: 1. As a user, I can click \"Sortable\" button"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing and verifying of \"Sortable\" tab items in \"Interactions\" module: 1. As a user, I can click \"Sortable\" button"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on \"Interactions\" module page with url \"https://demoqa.com/interaction\""
+  }, {
+    "name" : "package",
+    "value" : "Testing and verifying of \"Sortable\" tab items in \"Interactions\" module: 1. As a user, I can click \"Sortable\" button"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-98.0.4758.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3c0111552474419c.json",
+  "parameterValues" : [ "chrome-98.0.4758.102" ]
+}

@@ -1,0 +1,118 @@
+{
+  "uid" : "7b6107aab75723bb",
+  "name" : "",
+  "fullName" : "Testing and verifying of \"Book Store\" submodule of \"Book Store Application\" page: 4. As a user, I can check subtitle of every book in search result matches its title.",
+  "historyId" : "eccfcfe59b6fd80065f766c65e6bd0c5",
+  "time" : {
+    "start" : 1645202201715,
+    "stop" : 1645202201715,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 7,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Testing and verifying of \"Book Store\" submodule of \"Book Store Application\" page: 4. As a user, I can check subtitle of every book in search result matches its title"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing and verifying of \"Book Store\" submodule of \"Book Store Application\" page: 4. As a user, I can check subtitle of every book in search result matches its title"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "Testing and verifying of \"Book Store\" submodule of \"Book Store Application\" page: 4. As a user, I can check subtitle of every book in search result matches its title"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-98.0.4758.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "bfc0a4979bd73438",
+      "status" : "passed",
+      "time" : {
+        "start" : 1645202199228,
+        "stop" : 1645202199229,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "6aa117935ea8d8b3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1645202199214,
+        "stop" : 1645202199215,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "27761e664fc886af",
+      "status" : "passed",
+      "time" : {
+        "start" : 1645202196686,
+        "stop" : 1645202196687,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "8d394f72957854c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1645202196673,
+        "stop" : 1645202196674,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "d02203c2aba2ffcf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1645202194203,
+        "stop" : 1645202194203,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "b4e6735ec6220e4b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1645202194192,
+        "stop" : 1645202194193,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "109beceee08aeabf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1645202190518,
+        "stop" : 1645202190519,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7b6107aab75723bb.json",
+  "parameterValues" : [ "chrome-98.0.4758.102" ]
+}

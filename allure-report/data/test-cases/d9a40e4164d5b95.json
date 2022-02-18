@@ -1,0 +1,62 @@
+{
+  "uid" : "d9a40e4164d5b95",
+  "name" : "When I drag the list item \"One\" and move it right to the end of list",
+  "fullName" : "Testing and verifying of \"Sortable\" tab items in \"Interactions\" module: 3. As a user, I can check the functionality of \"Grid\" tab elements.When I drag the list item \"One\" and move it right to the end of list",
+  "historyId" : "d880d3be16a3f06af42bb3666be3cf4c",
+  "time" : {
+    "start" : 1645202209945,
+    "stop" : 1645202210078,
+    "duration" : 133
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-5"
+  }, {
+    "name" : "suite",
+    "value" : "Testing and verifying of \"Sortable\" tab items in \"Interactions\" module: 3. As a user, I can check the functionality of \"Grid\" tab elements"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing and verifying of \"Sortable\" tab items in \"Interactions\" module: 3. As a user, I can check the functionality of \"Grid\" tab elements"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I drag the list item \"One\" and move it right to the end of list"
+  }, {
+    "name" : "package",
+    "value" : "Testing and verifying of \"Sortable\" tab items in \"Interactions\" module: 3. As a user, I can check the functionality of \"Grid\" tab elements"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-98.0.4758.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d9a40e4164d5b95.json",
+  "parameterValues" : [ "chrome-98.0.4758.102" ]
+}

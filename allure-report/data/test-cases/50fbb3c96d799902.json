@@ -1,0 +1,62 @@
+{
+  "uid" : "50fbb3c96d799902",
+  "name" : "Then I should see that \"Grid\" tab became active",
+  "fullName" : "Testing and verifying of \"Sortable\" tab items in \"Interactions\" module: 3. As a user, I can check the functionality of \"Grid\" tab elements.Then I should see that \"Grid\" tab became active",
+  "historyId" : "823dd44aaa1220b4d510f2ceb52ea88",
+  "time" : {
+    "start" : 1645202209900,
+    "stop" : 1645202209945,
+    "duration" : 45
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-5"
+  }, {
+    "name" : "suite",
+    "value" : "Testing and verifying of \"Sortable\" tab items in \"Interactions\" module: 3. As a user, I can check the functionality of \"Grid\" tab elements"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing and verifying of \"Sortable\" tab items in \"Interactions\" module: 3. As a user, I can check the functionality of \"Grid\" tab elements"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I should see that \"Grid\" tab became active"
+  }, {
+    "name" : "package",
+    "value" : "Testing and verifying of \"Sortable\" tab items in \"Interactions\" module: 3. As a user, I can check the functionality of \"Grid\" tab elements"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-98.0.4758.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "50fbb3c96d799902.json",
+  "parameterValues" : [ "chrome-98.0.4758.102" ]
+}

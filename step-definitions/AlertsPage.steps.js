@@ -3,6 +3,7 @@ const alertsPage = require('../pageobjects/alertsPage');
 const {expect} = require('chai');
 
 Given(/^I am on "Alerts, Frame & Windows" module page with url "(.*)"$/, async (alertsUrl) => {
+    await browser.maximizeWindow();
     await alertsPage.open(alertsUrl);
     expect (await browser.getUrl()).to.equal(alertsUrl);
 });

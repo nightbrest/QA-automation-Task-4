@@ -1,0 +1,1721 @@
+[ {
+  "uid" : "d1bc5995eb0a382f",
+  "name" : "And I click large modal's \"Close\" button",
+  "time" : {
+    "start" : 1645202179416,
+    "stop" : 1645202179719,
+    "duration" : 303
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "16541deb60365528",
+  "name" : "When I click \"Menu\" button",
+  "time" : {
+    "start" : 1645202212154,
+    "stop" : 1645202212241,
+    "duration" : 87
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b57c1c30d413adae",
+  "name" : "Then I should see the \"Alerts, Frame & Windows\" page opened",
+  "time" : {
+    "start" : 1645202189943,
+    "stop" : 1645202191530,
+    "duration" : 1587
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cae260e840f8fe4b",
+  "name" : "And I should see \"Two\" and \"Three\" moved one step to left",
+  "time" : {
+    "start" : 1645202211608,
+    "stop" : 1645202211644,
+    "duration" : 36
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9783a039bc854d2d",
+  "name" : "When I click \"Alerts, Frame & Windows\" button",
+  "time" : {
+    "start" : 1645202189614,
+    "stop" : 1645202189942,
+    "duration" : 328
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "202571c03e0c56a9",
+  "name" : "Then I should see message \"You have done a right click\"",
+  "time" : {
+    "start" : 1645202184641,
+    "stop" : 1645202184710,
+    "duration" : 69
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b0ce431ed9f68c47",
+  "name" : "And I should see small modal dissapeared",
+  "time" : {
+    "start" : 1645202177778,
+    "stop" : 1645202178835,
+    "duration" : 1057
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "33a45f96263c6975",
+  "name" : "",
+  "time" : {
+    "start" : 1645202212251,
+    "stop" : 1645202212251,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fd4e550da1569be4",
+  "name" : "When I click \"Interactions\" button",
+  "time" : {
+    "start" : 1645202193116,
+    "stop" : 1645202193480,
+    "duration" : 364
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6ad4cf0d4b5f1e13",
+  "name" : "Given I am on Forms module page",
+  "time" : {
+    "start" : 1645202164332,
+    "stop" : 1645202177671,
+    "duration" : 13339
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cbbb52860884b3ea",
+  "name" : "Given I am on Element’s module page",
+  "time" : {
+    "start" : 1645202164006,
+    "stop" : 1645202172230,
+    "duration" : 8224
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5ab95e90880274fd",
+  "name" : "And I should see under registration form \"Permananet Address \":\"Moskowskaja str. 206, app.1, Brest, Belarus, 224000\"",
+  "time" : {
+    "start" : 1645202177749,
+    "stop" : 1645202177851,
+    "duration" : 102
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8dac623f76ebd851",
+  "name" : "When I click \"Book Store\" button",
+  "time" : {
+    "start" : 1645202172151,
+    "stop" : 1645202172430,
+    "duration" : 279
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3ccd51f7b3d35a36",
+  "name" : "Then I should see Sports Reading Music checkboxes became active",
+  "time" : {
+    "start" : 1645202185756,
+    "stop" : 1645202185960,
+    "duration" : 204
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "59fb1e0a6cc62118",
+  "name" : "And I should see in new the window \"Address Test str. 2, app.7, Brest, Belarus, 224000\"",
+  "time" : {
+    "start" : 1645202189488,
+    "stop" : 1645202189566,
+    "duration" : 78
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "97f66b66882022e9",
+  "name" : "When I click \"Click Me\" button",
+  "time" : {
+    "start" : 1645202184710,
+    "stop" : 1645202184932,
+    "duration" : 222
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1f419e8f5474f5a8",
+  "name" : "Given I am on \"Widgets\" module page with url \"https://demoqa.com/widgets\"",
+  "time" : {
+    "start" : 1645202204198,
+    "stop" : 1645202208360,
+    "duration" : 4162
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "92fab52012c8ffb5",
+  "name" : "And I should see under registration form \"Email\":\"test@mail.ru\"",
+  "time" : {
+    "start" : 1645202177519,
+    "stop" : 1645202177632,
+    "duration" : 113
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f464ff803274d3c0",
+  "name" : "And I should see large modal dissapeared",
+  "time" : {
+    "start" : 1645202179719,
+    "stop" : 1645202180216,
+    "duration" : 497
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "440c410d310cb498",
+  "name" : "Then I should see modal window with the title \"Large Modal\"",
+  "time" : {
+    "start" : 1645202179236,
+    "stop" : 1645202179416,
+    "duration" : 180
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5a8551bb0be1a0c6",
+  "name" : "Then I should see the \"Selenium Certification Training\" page opened",
+  "time" : {
+    "start" : 1645202178268,
+    "stop" : 1645202185796,
+    "duration" : 7528
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c41baf6660111c0b",
+  "name" : "Then I should see \"Ivanov\" appeared in Last name field",
+  "time" : {
+    "start" : 1645202180228,
+    "stop" : 1645202180296,
+    "duration" : 68
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "194b8ef4eff51295",
+  "name" : "Then I should see state \"NCR\" as selected",
+  "time" : {
+    "start" : 1645202187556,
+    "stop" : 1645202187632,
+    "duration" : 76
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dfc8bfcc23def438",
+  "name" : "Then I should see An In-Depth Guide for Programmers matches book's title",
+  "time" : {
+    "start" : 1645202195127,
+    "stop" : 1645202195263,
+    "duration" : 136
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9565b2e1dcc45cf7",
+  "name" : "Then I should see \"Test str. 2, app.7, Brest, Belarus, 224000\" appeared in Current Address field",
+  "time" : {
+    "start" : 1645202187155,
+    "stop" : 1645202187197,
+    "duration" : 42
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f9faef527f08ee2c",
+  "name" : "And I click small modal's \"Close\" button",
+  "time" : {
+    "start" : 1645202177582,
+    "stop" : 1645202177778,
+    "duration" : 196
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6e58b8acbecf9e0e",
+  "name" : "When I fill Email field with incorrect value \"111\"",
+  "time" : {
+    "start" : 1645202177852,
+    "stop" : 1645202178296,
+    "duration" : 444
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "795d499771519bca",
+  "name" : "Then I should see book store with book items appeared",
+  "time" : {
+    "start" : 1645202187629,
+    "stop" : 1645202189418,
+    "duration" : 1789
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d63962a4b510b1de",
+  "name" : "When I click \"Text Box\" button",
+  "time" : {
+    "start" : 1645202172231,
+    "stop" : 1645202172692,
+    "duration" : 461
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d92a0aae5dc370fa",
+  "name" : "And I fill Current Address field with \"Test str. 1, app.7, Brest, Belarus, 224000\"",
+  "time" : {
+    "start" : 1645202175103,
+    "stop" : 1645202176031,
+    "duration" : 928
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bb7926dd9249a49b",
+  "name" : "And I switch to \"https://demoqa.com/browser-windows\"",
+  "time" : {
+    "start" : 1645202175112,
+    "stop" : 1645202175221,
+    "duration" : 109
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6045f5914f4a3e38",
+  "name" : "When I click \"Modal Dialogs\" button",
+  "time" : {
+    "start" : 1645202176663,
+    "stop" : 1645202177028,
+    "duration" : 365
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "27a7c6c17f5a2c40",
+  "name" : "Then I should see \"Ivan\" appeared in First name field",
+  "time" : {
+    "start" : 1645202179577,
+    "stop" : 1645202179663,
+    "duration" : 86
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9a2c2fdbde33969e",
+  "name" : "Then I should see sub items appearing",
+  "time" : {
+    "start" : 1645202212427,
+    "stop" : 1645202212474,
+    "duration" : 47
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c341ae4dbd7e863d",
+  "name" : "Then I should see Menu page with url \"https://demoqa.com/menu\"",
+  "time" : {
+    "start" : 1645202212241,
+    "stop" : 1645202212251,
+    "duration" : 10
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "31c569b6f433b493",
+  "name" : "When I click \"Sortable\" button",
+  "time" : {
+    "start" : 1645202207482,
+    "stop" : 1645202207640,
+    "duration" : 158
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "39fa4859828ad654",
+  "name" : "When I fill students Current Address field with \"Test str. 2, app.7, Brest, Belarus, 224000\"",
+  "time" : {
+    "start" : 1645202186706,
+    "stop" : 1645202187155,
+    "duration" : 449
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bb832d5db7b4c4bf",
+  "name" : "Then I should see under registration form \"Name\":\"Ivan Ivanov\"",
+  "time" : {
+    "start" : 1645202177397,
+    "stop" : 1645202177518,
+    "duration" : 121
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d8f71b6ccf5f59ea",
+  "name" : "And I fill Email field with \"test@mail.ru\"",
+  "time" : {
+    "start" : 1645202174229,
+    "stop" : 1645202175103,
+    "duration" : 874
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7b26926d679a75c6",
+  "name" : "When I click Sports Reading Music checkboxes",
+  "time" : {
+    "start" : 1645202185199,
+    "stop" : 1645202185755,
+    "duration" : 556
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "90674f2d882683ef",
+  "name" : "Then I should see city \"Noida\" as selected",
+  "time" : {
+    "start" : 1645202188094,
+    "stop" : 1645202188203,
+    "duration" : 109
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2d3ef347a065a19",
+  "name" : "Then I should see the page with url \"https://demoqa.com/menu#\"",
+  "time" : {
+    "start" : 1645202212542,
+    "stop" : 1645202212549,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3a9fe3cf085ad7c8",
+  "name" : "When I click form's \"Submit\" button",
+  "time" : {
+    "start" : 1645202188203,
+    "stop" : 1645202188492,
+    "duration" : 289
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5da7b1bc8e248def",
+  "name" : "And I click \"Back To Book Store\" button",
+  "time" : {
+    "start" : 1645202200163,
+    "stop" : 1645202200456,
+    "duration" : 293
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d06e6b498e2a1dbe",
+  "name" : "When I click \"Browser Windows\" button",
+  "time" : {
+    "start" : 1645202172981,
+    "stop" : 1645202173720,
+    "duration" : 739
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1dc030217f548248",
+  "name" : "Given I am on start page",
+  "time" : {
+    "start" : 1645202163858,
+    "stop" : 1645202177848,
+    "duration" : 13990
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2419d67755b30c07",
+  "name" : "Then I should see A Modern Introduction to Programming matches book's title",
+  "time" : {
+    "start" : 1645202199997,
+    "stop" : 1645202200163,
+    "duration" : 166
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5d58a5a5ab6e5700",
+  "name" : "When I choose \"NCR\" from Select State dropbox",
+  "time" : {
+    "start" : 1645202187197,
+    "stop" : 1645202187556,
+    "duration" : 359
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ce9a7e5ea682a863",
+  "name" : "Then I should see Origin-tab text starting with \"Contrary to popular belief\"",
+  "time" : {
+    "start" : 1645202210003,
+    "stop" : 1645202211043,
+    "duration" : 1040
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5df4cfd0eb1c99e6",
+  "name" : "When I click \"Sub Sub Item 2\"",
+  "time" : {
+    "start" : 1645202212846,
+    "stop" : 1645202212911,
+    "duration" : 65
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "35c47f20e49b5f26",
+  "name" : "When I click top \"sub item\"",
+  "time" : {
+    "start" : 1645202212474,
+    "stop" : 1645202212542,
+    "duration" : 68
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "426fe54bc40bb486",
+  "name" : "And I click \"Submit\" button",
+  "time" : {
+    "start" : 1645202177083,
+    "stop" : 1645202177396,
+    "duration" : 313
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "24c4f6a6b9c813c1",
+  "name" : "Then I should see \"0123456789\" appeared in Mobile field",
+  "time" : {
+    "start" : 1645202182236,
+    "stop" : 1645202182297,
+    "duration" : 61
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c0e6f3335de24291",
+  "name" : "When I fill Last name field with \"Ivanov\"",
+  "time" : {
+    "start" : 1645202179663,
+    "stop" : 1645202180228,
+    "duration" : 565
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "13c989095d18503",
+  "name" : "When I click \"New Tab\" button",
+  "time" : {
+    "start" : 1645202174352,
+    "stop" : 1645202174627,
+    "duration" : 275
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dce2d4a5737b5106",
+  "name" : "When I click \"Sub Sub Item 1\"",
+  "time" : {
+    "start" : 1645202212739,
+    "stop" : 1645202212833,
+    "duration" : 94
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c23186e21140b38c",
+  "name" : "And I should see in new the window \"Date of Birth 07 October,1982\"",
+  "time" : {
+    "start" : 1645202189248,
+    "stop" : 1645202189327,
+    "duration" : 79
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f561009824f3fe88",
+  "name" : "",
+  "time" : {
+    "start" : 1645202209806,
+    "stop" : 1645202209806,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b972a5feab04526f",
+  "name" : "Then I should see element \"One\" is replaced by the element \"Three\"",
+  "time" : {
+    "start" : 1645202210079,
+    "stop" : 1645202211608,
+    "duration" : 1529
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8b40d88c1edc5593",
+  "name" : "Then I should see A JavaScript and jQuery Developer's Guide matches book's title",
+  "time" : {
+    "start" : 1645202192202,
+    "stop" : 1645202192767,
+    "duration" : 565
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "36b838b9e8e290b",
+  "name" : "Then I should see the text \"This is a sample page\" on the page",
+  "time" : {
+    "start" : 1645202175011,
+    "stop" : 1645202175112,
+    "duration" : 101
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fb3b462ff6b9994b",
+  "name" : "When I fill Subject field with \"Testing\"",
+  "time" : {
+    "start" : 1645202184606,
+    "stop" : 1645202185134,
+    "duration" : 528
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6093e6d6c1ff0188",
+  "name" : "Then I should see new web page with url \"https://demoqa.com/sample\" opened and switch this window",
+  "time" : {
+    "start" : 1645202174627,
+    "stop" : 1645202175011,
+    "duration" : 384
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9a52f688dcc0913",
+  "name" : "Then I should see message \"You have done a dynamic click\"",
+  "time" : {
+    "start" : 1645202184932,
+    "stop" : 1645202185010,
+    "duration" : 78
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4b13697b9a5b3962",
+  "name" : "When I click \"Tabs\" button",
+  "time" : {
+    "start" : 1645202208360,
+    "stop" : 1645202208509,
+    "duration" : 149
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "77c6d77e7ee845d1",
+  "name" : "When I click \"Use\" tab",
+  "time" : {
+    "start" : 1645202211043,
+    "stop" : 1645202211124,
+    "duration" : 81
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c3f9b7962342186c",
+  "name" : "When I tape keyword \"JavaScript\" in the search field",
+  "time" : {
+    "start" : 1645202189418,
+    "stop" : 1645202190237,
+    "duration" : 819
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f53fd21845df0c2c",
+  "name" : "When I click \"Back To Book Store\" button",
+  "time" : {
+    "start" : 1645202181544,
+    "stop" : 1645202187629,
+    "duration" : 6085
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "651c2d26f39baac2",
+  "name" : "When I hover \"SUB SUB LIST »\"",
+  "time" : {
+    "start" : 1645202212549,
+    "stop" : 1645202212599,
+    "duration" : 50
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "17e654c3b06b14e1",
+  "name" : "And I should see in new the window \"Gender Male\"",
+  "time" : {
+    "start" : 1645202189056,
+    "stop" : 1645202189165,
+    "duration" : 109
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ec09d5ad8628d833",
+  "name" : "And I should see in new the window \"Student Email testing@mail.ru\"",
+  "time" : {
+    "start" : 1645202188928,
+    "stop" : 1645202189056,
+    "duration" : 128
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7eac9e397815038",
+  "name" : "And I should see in new the window \"Picture Untitled.png\"",
+  "time" : {
+    "start" : 1645202189403,
+    "stop" : 1645202189488,
+    "duration" : 85
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8d83246248c83b1e",
+  "name" : "When I select the date 1st October 1982 in \"Date of Birth\"",
+  "time" : {
+    "start" : 1645202182297,
+    "stop" : 1645202184550,
+    "duration" : 2253
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "915d2471aff5dae5",
+  "name" : "When I click \"TOOLS QA\" label",
+  "time" : {
+    "start" : 1645202195683,
+    "stop" : 1645202196498,
+    "duration" : 815
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bc4a9f1a4b3ba113",
+  "name" : "",
+  "time" : {
+    "start" : 1645202176593,
+    "stop" : 1645202176596,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5122e20b18c1efb8",
+  "name" : "",
+  "time" : {
+    "start" : 1645202208537,
+    "stop" : 1645202208538,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e54cd7eab8daeab8",
+  "name" : "Then I should see as a search result following books",
+  "time" : {
+    "start" : 1645202190238,
+    "stop" : 1645202190504,
+    "duration" : 266
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2c01b0adb12c6f0a",
+  "name" : "Then I should see the \"Forms\" page opened",
+  "time" : {
+    "start" : 1645202188360,
+    "stop" : 1645202189614,
+    "duration" : 1254
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c44ff0b1a3c482dc",
+  "name" : "When I click Learning JavaScript Design Patterns link",
+  "time" : {
+    "start" : 1645202190520,
+    "stop" : 1645202192201,
+    "duration" : 1681
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "733a7c12afd98513",
+  "name" : "Then I should see button \"New Tab\" appeared",
+  "time" : {
+    "start" : 1645202173720,
+    "stop" : 1645202173939,
+    "duration" : 219
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bec43ce73ec9f1f",
+  "name" : "And I fill Permanent Address field with \"Moskowskaja str. 206, app.1, Brest, Belarus, 224000\"",
+  "time" : {
+    "start" : 1645202176031,
+    "stop" : 1645202177083,
+    "duration" : 1052
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8c6a4660387e6e04",
+  "name" : "Then I should see \"Testing\" appeared in Subject field",
+  "time" : {
+    "start" : 1645202185134,
+    "stop" : 1645202185199,
+    "duration" : 65
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "44731e660387686f",
+  "name" : "And I should see the button \"Large modal\" appeared",
+  "time" : {
+    "start" : 1645202177164,
+    "stop" : 1645202177294,
+    "duration" : 130
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f8abbf0da970b7a8",
+  "name" : "Then I should see \"07 Oct 1982\" appeared in Date of Birth field",
+  "time" : {
+    "start" : 1645202184550,
+    "stop" : 1645202184606,
+    "duration" : 56
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7d05b3d8ec6c850a",
+  "name" : "Then I should see Robust Web Architecture with Node, HTML5, and Modern JS Libraries matches book's title",
+  "time" : {
+    "start" : 1645202197876,
+    "stop" : 1645202198009,
+    "duration" : 133
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3c0111552474419c",
+  "name" : "Given I am on \"Interactions\" module page with url \"https://demoqa.com/interaction\"",
+  "time" : {
+    "start" : 1645202203295,
+    "stop" : 1645202207482,
+    "duration" : 4187
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "877ad8ba13c8efd",
+  "name" : "Then I should see the same page \"https://demoqa.com/menu#\"",
+  "time" : {
+    "start" : 1645202212911,
+    "stop" : 1645202212922,
+    "duration" : 11
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e4905ef0bcbec389",
+  "name" : "When I click \"Book Store Application\" button",
+  "time" : {
+    "start" : 1645202194282,
+    "stop" : 1645202194978,
+    "duration" : 696
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6ddf634c3b9bb922",
+  "name" : "Then I should see the \"Book Store Application\" page opened",
+  "time" : {
+    "start" : 1645202194979,
+    "stop" : 1645202195682,
+    "duration" : 703
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "50fbb3c96d799902",
+  "name" : "Then I should see that \"Grid\" tab became active",
+  "time" : {
+    "start" : 1645202209900,
+    "stop" : 1645202209945,
+    "duration" : 45
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fa16811b956a26a",
+  "name" : "And I should see under registration form \"Current Address \":\"Test str. 1, app.7, Brest, Belarus, 224000\"",
+  "time" : {
+    "start" : 1645202177632,
+    "stop" : 1645202177749,
+    "duration" : 117
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "90e87a53f970aa9",
+  "name" : "When I choose \"Noida\" from Select City dropbox",
+  "time" : {
+    "start" : 1645202187632,
+    "stop" : 1645202188093,
+    "duration" : 461
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1b85313a34e2743c",
+  "name" : "Then I should see \"testing@mail.ru\" appeared in Email field",
+  "time" : {
+    "start" : 1645202180864,
+    "stop" : 1645202180948,
+    "duration" : 84
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "287998dc112da0ce",
+  "name" : "Then I should see new window appeared with all information I've just filled in",
+  "time" : {
+    "start" : 1645202188492,
+    "stop" : 1645202188727,
+    "duration" : 235
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ea9d3afdf81bcbf7",
+  "name" : "Then I should see book store with book items appeared",
+  "time" : {
+    "start" : 1645202200457,
+    "stop" : 1645202201714,
+    "duration" : 1257
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "565675f441378d8d",
+  "name" : "When I fill Full Name field with \"Ivan Ivanov\"",
+  "time" : {
+    "start" : 1645202173278,
+    "stop" : 1645202174228,
+    "duration" : 950
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5d25ed0360bdc881",
+  "name" : "When I click \"New Window Message\" button",
+  "time" : {
+    "start" : 1645202176129,
+    "stop" : 1645202176381,
+    "duration" : 252
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ff3c3bf073161b10",
+  "name" : "When I click \"Main Item 1\" menu unit",
+  "time" : {
+    "start" : 1645202212257,
+    "stop" : 1645202212349,
+    "duration" : 92
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d02df644fd02fa02",
+  "name" : "",
+  "time" : {
+    "start" : 1645202185010,
+    "stop" : 1645202185011,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f78b29f43dc848b7",
+  "name" : "When I click Speaking JavaScript link",
+  "time" : {
+    "start" : 1645202194204,
+    "stop" : 1645202195127,
+    "duration" : 923
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a35bbea5920bba66",
+  "name" : "When I click \"Git Pocket Guide\" book's title",
+  "time" : {
+    "start" : 1645202172566,
+    "stop" : 1645202181252,
+    "duration" : 8686
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a136898b80a714cb",
+  "name" : "Then I should see What-tab text starting with \"Lorem Ipsum is simply dummy text\"",
+  "time" : {
+    "start" : 1645202208802,
+    "stop" : 1645202209867,
+    "duration" : 1065
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7b6107aab75723bb",
+  "name" : "",
+  "time" : {
+    "start" : 1645202201715,
+    "stop" : 1645202201715,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "29a03c72546b9b37",
+  "name" : "When I click Eloquent JavaScript, Second Edition link",
+  "time" : {
+    "start" : 1645202199229,
+    "stop" : 1645202199997,
+    "duration" : 768
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4e355218b89c17c6",
+  "name" : "",
+  "time" : {
+    "start" : 1645202181523,
+    "stop" : 1645202181523,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d7da31282155cef4",
+  "name" : "When I click \"Male\" radio button",
+  "time" : {
+    "start" : 1645202180948,
+    "stop" : 1645202181445,
+    "duration" : 497
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2598395143e81d0c",
+  "name" : "When I double-click \"Double Click Me\" button",
+  "time" : {
+    "start" : 1645202181329,
+    "stop" : 1645202184302,
+    "duration" : 2973
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ca25f8196757f284",
+  "name" : "",
+  "time" : {
+    "start" : 1645202190504,
+    "stop" : 1645202190506,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "85eb9fa6ac655d4e",
+  "name" : "And I should see text \"This is a sample page\" on the page",
+  "time" : {
+    "start" : 1645202175946,
+    "stop" : 1645202176129,
+    "duration" : 183
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6f888c314cf04287",
+  "name" : "Then I should see new browser window with page \"https://demoqa.com/sample\" opened",
+  "time" : {
+    "start" : 1645202175563,
+    "stop" : 1645202175946,
+    "duration" : 383
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4056c878582908fb",
+  "name" : "Then I should see the start page reloded",
+  "time" : {
+    "start" : 1645202196498,
+    "stop" : 1645202197185,
+    "duration" : 687
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c566fc0a55c82aa0",
+  "name" : "Then I should see Tabs page with url \"https://demoqa.com/tabs\"",
+  "time" : {
+    "start" : 1645202208509,
+    "stop" : 1645202208536,
+    "duration" : 27
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7b08a621f599db13",
+  "name" : "When I click \"Origin\" tab",
+  "time" : {
+    "start" : 1645202209867,
+    "stop" : 1645202210002,
+    "duration" : 135
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d9a40e4164d5b95",
+  "name" : "When I drag the list item \"One\" and move it right to the end of list",
+  "time" : {
+    "start" : 1645202209945,
+    "stop" : 1645202210078,
+    "duration" : 133
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "895753637c6c18b9",
+  "name" : "When I click \"Small modal\" button",
+  "time" : {
+    "start" : 1645202177294,
+    "stop" : 1645202177505,
+    "duration" : 211
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e05caecad5190c25",
+  "name" : "Then I should see \"https://demoqa.com/menu#\" page",
+  "time" : {
+    "start" : 1645202212833,
+    "stop" : 1645202212846,
+    "duration" : 13
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c2531369b02e4cf5",
+  "name" : "And I should see button with name \"New Window\" appeared",
+  "time" : {
+    "start" : 1645202173940,
+    "stop" : 1645202174176,
+    "duration" : 236
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "742fa987868a8115",
+  "name" : "Then I should see book store with book items appeared",
+  "time" : {
+    "start" : 1645202172430,
+    "stop" : 1645202172539,
+    "duration" : 109
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5d9986e6fb903f0e",
+  "name" : "Then I should see Use-tab text starting with \"It is a long established fact\"",
+  "time" : {
+    "start" : 1645202211124,
+    "stop" : 1645202212147,
+    "duration" : 1023
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dcbe5d05fbc9a986",
+  "name" : "And I should see in new the window \"Mobile 0123456789\"",
+  "time" : {
+    "start" : 1645202189165,
+    "stop" : 1645202189247,
+    "duration" : 82
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "775c13306c8836e9",
+  "name" : "Then I should see the \"Interactions\" page opened",
+  "time" : {
+    "start" : 1645202193480,
+    "stop" : 1645202194282,
+    "duration" : 802
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "66da4afc849ceedd",
+  "name" : "Then I should see the window disappeared",
+  "time" : {
+    "start" : 1645202190001,
+    "stop" : 1645202190508,
+    "duration" : 507
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2a96b79a03770cb3",
+  "name" : "Then I should see modal window with title \"Small Modal\"",
+  "time" : {
+    "start" : 1645202177505,
+    "stop" : 1645202177581,
+    "duration" : 76
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9f919d2064ab6216",
+  "name" : "When I hover \"Main Item 2\" menu unit",
+  "time" : {
+    "start" : 1645202212363,
+    "stop" : 1645202212427,
+    "duration" : 64
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b55526d6dc231bf1",
+  "name" : "Then I should see the \"Email\" field frame became red coloured",
+  "time" : {
+    "start" : 1645202178297,
+    "stop" : 1645202178547,
+    "duration" : 250
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6b085c0d694be454",
+  "name" : "When I fill Mobile field with \"0123456789\"",
+  "time" : {
+    "start" : 1645202181569,
+    "stop" : 1645202182236,
+    "duration" : 667
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8f32630fa50260c1",
+  "name" : "",
+  "time" : {
+    "start" : 1645202208070,
+    "stop" : 1645202208071,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "269d43da641f8463",
+  "name" : "",
+  "time" : {
+    "start" : 1645202211644,
+    "stop" : 1645202211645,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "41518984a605b3c0",
+  "name" : "Then I should see the \"Student Registration form\" with fields to fill in",
+  "time" : {
+    "start" : 1645202178575,
+    "stop" : 1645202178915,
+    "duration" : 340
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1c8b01edc2e8ecb",
+  "name" : "",
+  "time" : {
+    "start" : 1645202197185,
+    "stop" : 1645202197186,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b53e92c94ff00a94",
+  "name" : "",
+  "time" : {
+    "start" : 1645202178548,
+    "stop" : 1645202178549,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "facc82d862b9cb83",
+  "name" : "When I click Programming JavaScript Applications link",
+  "time" : {
+    "start" : 1645202196687,
+    "stop" : 1645202197875,
+    "duration" : 1188
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cc0ce7e721a71b6c",
+  "name" : "When I click \"Forms\" button",
+  "time" : {
+    "start" : 1645202188079,
+    "stop" : 1645202188360,
+    "duration" : 281
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c509ad8eeb599b9d",
+  "name" : "",
+  "time" : {
+    "start" : 1645202190508,
+    "stop" : 1645202190509,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c3baccccb71eb9ba",
+  "name" : "When I click \"Close\" button",
+  "time" : {
+    "start" : 1645202189639,
+    "stop" : 1645202190000,
+    "duration" : 361
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6f1d5a93ed1b6397",
+  "name" : "When I fill First name field with \"Ivan\"",
+  "time" : {
+    "start" : 1645202178915,
+    "stop" : 1645202179577,
+    "duration" : 662
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "59c909f72463a8e4",
+  "name" : "When I fill Email's field with \"testing@mail.ru\"",
+  "time" : {
+    "start" : 1645202180296,
+    "stop" : 1645202180864,
+    "duration" : 568
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4e1ba7f1ff24c0a",
+  "name" : "Then I should see \"Male\" chechbox became active",
+  "time" : {
+    "start" : 1645202181445,
+    "stop" : 1645202181569,
+    "duration" : 124
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f453d911edc34e59",
+  "name" : "Then I should see \"Sortable\" submodule tabs with tab \"List\" as active",
+  "time" : {
+    "start" : 1645202207640,
+    "stop" : 1645202208070,
+    "duration" : 430
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b7d1ff0f1c1b479e",
+  "name" : "Then I should see the list item \"One\" took the place of list item \"Six\"",
+  "time" : {
+    "start" : 1645202208208,
+    "stop" : 1645202209763,
+    "duration" : 1555
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "53e7545b8e7a02dc",
+  "name" : "When I click \"Practice Form\" button",
+  "time" : {
+    "start" : 1645202177671,
+    "stop" : 1645202178574,
+    "duration" : 903
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dbdc183524f28832",
+  "name" : "When I click \"Large modal\" button",
+  "time" : {
+    "start" : 1645202178835,
+    "stop" : 1645202179236,
+    "duration" : 401
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6d3aff5437176ec4",
+  "name" : "When I click \"Grid\" tab",
+  "time" : {
+    "start" : 1645202209815,
+    "stop" : 1645202209900,
+    "duration" : 85
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "11c8e5a085cd892d",
+  "name" : "Given I am on \"Alerts, Frame & Windows\" module page with url \"https://demoqa.com/alertsWindows\"",
+  "time" : {
+    "start" : 1645202164544,
+    "stop" : 1645202172980,
+    "duration" : 8436
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1ddd5e8ad3b8a05b",
+  "name" : "Then I should see the \"Elements\" page opened",
+  "time" : {
+    "start" : 1645202186114,
+    "stop" : 1645202188078,
+    "duration" : 1964
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4c20ce34768c0573",
+  "name" : "When I click \"What\" tab",
+  "time" : {
+    "start" : 1645202208560,
+    "stop" : 1645202208800,
+    "duration" : 240
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a95d75dc172e07f0",
+  "name" : "",
+  "time" : {
+    "start" : 1645202212922,
+    "stop" : 1645202212922,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "37644a7eeee8d95",
+  "name" : "Given I am on \"Book Store Application\" submodule page with url \"https://demoqa.com/books\"",
+  "time" : {
+    "start" : 1645202163949,
+    "stop" : 1645202172151,
+    "duration" : 8202
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3b794bbd568cb483",
+  "name" : "And I should see button named \"New Window Message\" appeared",
+  "time" : {
+    "start" : 1645202174176,
+    "stop" : 1645202174351,
+    "duration" : 175
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a421bf2da5757a43",
+  "name" : "Then I should see button with the name \"Small modal\" appeared",
+  "time" : {
+    "start" : 1645202177028,
+    "stop" : 1645202177164,
+    "duration" : 136
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "32f03a744ffd1cd1",
+  "name" : "When I click \"Selenium Certification Training\" banner",
+  "time" : {
+    "start" : 1645202177849,
+    "stop" : 1645202178268,
+    "duration" : 419
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "127714caccbc6534",
+  "name" : "",
+  "time" : {
+    "start" : 1645202172540,
+    "stop" : 1645202172541,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "47a72d3e6b9b9bd8",
+  "name" : "And I should see in new the window \"Student Name Ivan Ivanov\"",
+  "time" : {
+    "start" : 1645202188727,
+    "stop" : 1645202188928,
+    "duration" : 201
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d4d03d130574fbd4",
+  "name" : "",
+  "time" : {
+    "start" : 1645202180219,
+    "stop" : 1645202180220,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "447f6cc28a5dd457",
+  "name" : "Then I should see \"Git Pocket Guide\" information page",
+  "time" : {
+    "start" : 1645202181252,
+    "stop" : 1645202181421,
+    "duration" : 169
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2078cc07c1639425",
+  "name" : "When I click \"Elements\" button",
+  "time" : {
+    "start" : 1645202185796,
+    "stop" : 1645202186114,
+    "duration" : 318
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3442a845c2ada738",
+  "name" : "Then I should see the registration form with fields to fill in",
+  "time" : {
+    "start" : 1645202172692,
+    "stop" : 1645202173278,
+    "duration" : 586
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8b71a3742d0174ae",
+  "name" : "And I should see in new the window \"Hobbies Sports, Reading, Music\"",
+  "time" : {
+    "start" : 1645202189327,
+    "stop" : 1645202189403,
+    "duration" : 76
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c32dbf2abaaf2fb7",
+  "name" : "And I can check \"Git Pocket Guide\" ISBN matches pattern \"(978|979)(0|1)\\d{9}\" of ISBN standart",
+  "time" : {
+    "start" : 1645202181422,
+    "stop" : 1645202181522,
+    "duration" : 100
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e2ca730a4829bbac",
+  "name" : "Then I should see message window with text \"Knowledge increases by sharing but not by saving. Please share this website with your friends and in your organization.\" appears",
+  "time" : {
+    "start" : 1645202176381,
+    "stop" : 1645202176592,
+    "duration" : 211
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ed1f8cb25483ff58",
+  "name" : "And I should see every other of list items moved one step to top, for example \"Two\" is on the top of the list",
+  "time" : {
+    "start" : 1645202209763,
+    "stop" : 1645202209805,
+    "duration" : 42
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9674b8c72d15c91b",
+  "name" : "Then I should see message \"You have done a double click\"",
+  "time" : {
+    "start" : 1645202184302,
+    "stop" : 1645202184381,
+    "duration" : 79
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e446aa694c61cba1",
+  "name" : "Then I should see page with url \"https://demoqa.com/menu#\"",
+  "time" : {
+    "start" : 1645202212349,
+    "stop" : 1645202212363,
+    "duration" : 14
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aa8fd7954db88488",
+  "name" : "When I click \"New Window\" button",
+  "time" : {
+    "start" : 1645202175222,
+    "stop" : 1645202175563,
+    "duration" : 341
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2f69d03add7e2b51",
+  "name" : "And I should see in new the window \"State and City NCR Noida\"",
+  "time" : {
+    "start" : 1645202189566,
+    "stop" : 1645202189639,
+    "duration" : 73
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4d3eabdd7dd6c586",
+  "name" : "Then I should see sub sub items appearing",
+  "time" : {
+    "start" : 1645202212599,
+    "stop" : 1645202212739,
+    "duration" : 140
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "67b0456c72cb04",
+  "name" : "",
+  "time" : {
+    "start" : 1645202212147,
+    "stop" : 1645202212147,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8f6f28b3f13304e1",
+  "name" : "Then I should see the \"Widgets\" page opened",
+  "time" : {
+    "start" : 1645202191887,
+    "stop" : 1645202193116,
+    "duration" : 1229
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "75ff0d3c1b0df5d0",
+  "name" : "When I choose and upload local picture",
+  "time" : {
+    "start" : 1645202185960,
+    "stop" : 1645202186706,
+    "duration" : 746
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b25adaffdfad205b",
+  "name" : "When I click \"Widgets\" button",
+  "time" : {
+    "start" : 1645202191530,
+    "stop" : 1645202191886,
+    "duration" : 356
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "72501e64f4fa6c7c",
+  "name" : "When I drag the list item \"One\" and move it in the end of list",
+  "time" : {
+    "start" : 1645202208096,
+    "stop" : 1645202208208,
+    "duration" : 112
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8cdc475ca6ade43c",
+  "name" : "When I right-click \"Right Click Me\" button",
+  "time" : {
+    "start" : 1645202184381,
+    "stop" : 1645202184641,
+    "duration" : 260
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,231 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1645202164416' stop='1645202176599'>
+    <name>Testing and verifying of "Browser Windows" and "Modal Dialogs" modules on "Alerts, Frame &amp; Windows" page: 1. As a user, I can click "Browser Windows" button</name>
+    <title>Testing and verifying of "Browser Windows" and "Modal Dialogs" modules on "Alerts, Frame &amp; Windows" page: 1. As a user, I can click "Browser Windows" button</title>
+    <test-cases>
+        <test-case start='1645202164449' status='passed' stop='1645202164530'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-98.0.4758.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1645202164544' status='passed' stop='1645202172980'>
+            <name>Given I am on "Alerts, Frame &amp; Windows" module page with url "https://demoqa.com/alertsWindows"</name>
+            <title>Given I am on "Alerts, Frame &amp; Windows" module page with url "https://demoqa.com/alertsWindows"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-98.0.4758.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1645202172981' status='passed' stop='1645202173720'>
+            <name>When I click "Browser Windows" button</name>
+            <title>When I click "Browser Windows" button</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-98.0.4758.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1645202173720' status='passed' stop='1645202173939'>
+            <name>Then I should see button "New Tab" appeared</name>
+            <title>Then I should see button "New Tab" appeared</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-98.0.4758.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1645202173940' status='passed' stop='1645202174176'>
+            <name>And I should see button with name "New Window" appeared</name>
+            <title>And I should see button with name "New Window" appeared</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-98.0.4758.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1645202174176' status='passed' stop='1645202174351'>
+            <name>And I should see button named "New Window Message" appeared</name>
+            <title>And I should see button named "New Window Message" appeared</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-98.0.4758.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1645202174352' status='passed' stop='1645202174627'>
+            <name>When I click "New Tab" button</name>
+            <title>When I click "New Tab" button</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-98.0.4758.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1645202174627' status='passed' stop='1645202175011'>
+            <name>Then I should see new web page with url "https://demoqa.com/sample" opened and switch this window</name>
+            <title>Then I should see new web page with url "https://demoqa.com/sample" opened and switch this window</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-98.0.4758.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1645202175011' status='passed' stop='1645202175112'>
+            <name>Then I should see the text "This is a sample page" on the page</name>
+            <title>Then I should see the text "This is a sample page" on the page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-98.0.4758.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1645202175112' status='passed' stop='1645202175221'>
+            <name>And I switch to "https://demoqa.com/browser-windows"</name>
+            <title>And I switch to "https://demoqa.com/browser-windows"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-98.0.4758.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1645202175222' status='passed' stop='1645202175563'>
+            <name>When I click "New Window" button</name>
+            <title>When I click "New Window" button</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-98.0.4758.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1645202175563' status='passed' stop='1645202175946'>
+            <name>Then I should see new browser window with page "https://demoqa.com/sample" opened</name>
+            <title>Then I should see new browser window with page "https://demoqa.com/sample" opened</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-98.0.4758.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1645202175946' status='passed' stop='1645202176129'>
+            <name>And I should see text "This is a sample page" on the page</name>
+            <title>And I should see text "This is a sample page" on the page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-98.0.4758.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1645202176129' status='passed' stop='1645202176381'>
+            <name>When I click "New Window Message" button</name>
+            <title>When I click "New Window Message" button</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-98.0.4758.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1645202176381' status='passed' stop='1645202176592'>
+            <name>Then I should see message window with text "Knowledge increases by sharing but not by saving. Please share this website with your friends and in your organization." appears</name>
+            <title>Then I should see message window with text "Knowledge increases by sharing but not by saving. Please share this website with your friends and in your organization." appears</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-98.0.4758.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1645202176593' status='passed' stop='1645202176596'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-98.0.4758.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

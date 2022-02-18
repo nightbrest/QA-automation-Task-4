@@ -1,0 +1,62 @@
+{
+  "uid" : "d06e6b498e2a1dbe",
+  "name" : "When I click \"Browser Windows\" button",
+  "fullName" : "Testing and verifying of \"Browser Windows\" and \"Modal Dialogs\" modules on \"Alerts, Frame & Windows\" page: 1. As a user, I can click \"Browser Windows\" button.When I click \"Browser Windows\" button",
+  "historyId" : "e2a16bde5aacbd98e899350c78dfd840",
+  "time" : {
+    "start" : 1645202172981,
+    "stop" : 1645202173720,
+    "duration" : 739
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Testing and verifying of \"Browser Windows\" and \"Modal Dialogs\" modules on \"Alerts, Frame & Windows\" page: 1. As a user, I can click \"Browser Windows\" button"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing and verifying of \"Browser Windows\" and \"Modal Dialogs\" modules on \"Alerts, Frame & Windows\" page: 1. As a user, I can click \"Browser Windows\" button"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I click \"Browser Windows\" button"
+  }, {
+    "name" : "package",
+    "value" : "Testing and verifying of \"Browser Windows\" and \"Modal Dialogs\" modules on \"Alerts, Frame & Windows\" page: 1. As a user, I can click \"Browser Windows\" button"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-98.0.4758.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d06e6b498e2a1dbe.json",
+  "parameterValues" : [ "chrome-98.0.4758.102" ]
+}

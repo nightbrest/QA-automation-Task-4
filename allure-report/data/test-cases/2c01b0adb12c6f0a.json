@@ -1,0 +1,62 @@
+{
+  "uid" : "2c01b0adb12c6f0a",
+  "name" : "Then I should see the \"Forms\" page opened",
+  "fullName" : "Testing and verifying main fuctualities of start page: 1. As a user, I can click any clicable item on start page and verify that is working.Then I should see the \"Forms\" page opened",
+  "historyId" : "46f6a5f489be94a5957dd04857c43a07",
+  "time" : {
+    "start" : 1645202188360,
+    "stop" : 1645202189614,
+    "duration" : 1254
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-4"
+  }, {
+    "name" : "suite",
+    "value" : "Testing and verifying main fuctualities of start page: 1. As a user, I can click any clicable item on start page and verify that is working"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing and verifying main fuctualities of start page: 1. As a user, I can click any clicable item on start page and verify that is working"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I should see the \"Forms\" page opened"
+  }, {
+    "name" : "package",
+    "value" : "Testing and verifying main fuctualities of start page: 1. As a user, I can click any clicable item on start page and verify that is working"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-98.0.4758.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2c01b0adb12c6f0a.json",
+  "parameterValues" : [ "chrome-98.0.4758.102" ]
+}

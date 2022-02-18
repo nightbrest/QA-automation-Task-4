@@ -1,0 +1,62 @@
+{
+  "uid" : "1f419e8f5474f5a8",
+  "name" : "Given I am on \"Widgets\" module page with url \"https://demoqa.com/widgets\"",
+  "fullName" : "Testing and verifying of \"Tabs\" and \"Menu\" modules on \"Widgets\" page: 1. As a user, I can click \"Tabs\" button.Given I am on \"Widgets\" module page with url \"https://demoqa.com/widgets\"",
+  "historyId" : "83be022e50b7e105df6a3aafe40d51d0",
+  "time" : {
+    "start" : 1645202204198,
+    "stop" : 1645202208360,
+    "duration" : 4162
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-6"
+  }, {
+    "name" : "suite",
+    "value" : "Testing and verifying of \"Tabs\" and \"Menu\" modules on \"Widgets\" page: 1. As a user, I can click \"Tabs\" button"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing and verifying of \"Tabs\" and \"Menu\" modules on \"Widgets\" page: 1. As a user, I can click \"Tabs\" button"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on \"Widgets\" module page with url \"https://demoqa.com/widgets\""
+  }, {
+    "name" : "package",
+    "value" : "Testing and verifying of \"Tabs\" and \"Menu\" modules on \"Widgets\" page: 1. As a user, I can click \"Tabs\" button"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-98.0.4758.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1f419e8f5474f5a8.json",
+  "parameterValues" : [ "chrome-98.0.4758.102" ]
+}

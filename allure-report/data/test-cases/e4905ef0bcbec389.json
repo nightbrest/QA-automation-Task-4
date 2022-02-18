@@ -1,0 +1,62 @@
+{
+  "uid" : "e4905ef0bcbec389",
+  "name" : "When I click \"Book Store Application\" button",
+  "fullName" : "Testing and verifying main fuctualities of start page: 1. As a user, I can click any clicable item on start page and verify that is working.When I click \"Book Store Application\" button",
+  "historyId" : "58d7897ad0c33b2c9d3e426efdc8114d",
+  "time" : {
+    "start" : 1645202194282,
+    "stop" : 1645202194978,
+    "duration" : 696
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-4"
+  }, {
+    "name" : "suite",
+    "value" : "Testing and verifying main fuctualities of start page: 1. As a user, I can click any clicable item on start page and verify that is working"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing and verifying main fuctualities of start page: 1. As a user, I can click any clicable item on start page and verify that is working"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I click \"Book Store Application\" button"
+  }, {
+    "name" : "package",
+    "value" : "Testing and verifying main fuctualities of start page: 1. As a user, I can click any clicable item on start page and verify that is working"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-98.0.4758.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e4905ef0bcbec389.json",
+  "parameterValues" : [ "chrome-98.0.4758.102" ]
+}

@@ -1,0 +1,60 @@
+{
+  "uid" : "b303ba30e643b783",
+  "name" : "",
+  "fullName" : "Testing and verifying \"Text Box\" and \"Buttons\" of Element’s module: 2. As a user, I can click \"Buttons\" button.",
+  "historyId" : "2cfa32175c59dd51e1c2b016c0c85a71",
+  "time" : {
+    "start" : 1645202181328,
+    "stop" : 1645202181329,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "Testing and verifying \"Text Box\" and \"Buttons\" of Element’s module: 2. As a user, I can click \"Buttons\" button"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing and verifying \"Text Box\" and \"Buttons\" of Element’s module: 2. As a user, I can click \"Buttons\" button"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "Testing and verifying \"Text Box\" and \"Buttons\" of Element’s module: 2. As a user, I can click \"Buttons\" button"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-98.0.4758.102"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b303ba30e643b783.json",
+  "parameterValues" : [ "chrome-98.0.4758.102" ]
+}

@@ -1,0 +1,77 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1645202172565' stop='1645202181523'>
+    <name>Testing and verifying of "Book Store" submodule of "Book Store Application" page: 2. As a user, I can check any book's ISBN matches pattern</name>
+    <title>Testing and verifying of "Book Store" submodule of "Book Store Application" page: 2. As a user, I can check any book's ISBN matches pattern</title>
+    <test-cases>
+        <test-case start='1645202172565' status='passed' stop='1645202172566'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-98.0.4758.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1645202172566' status='passed' stop='1645202181252'>
+            <name>When I click "Git Pocket Guide" book's title</name>
+            <title>When I click "Git Pocket Guide" book's title</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-98.0.4758.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1645202181252' status='passed' stop='1645202181421'>
+            <name>Then I should see "Git Pocket Guide" information page</name>
+            <title>Then I should see "Git Pocket Guide" information page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-98.0.4758.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1645202181422' status='passed' stop='1645202181522'>
+            <name>And I can check "Git Pocket Guide" ISBN matches pattern "(978|979)(0|1)\d{9}" of ISBN standart</name>
+            <title>And I can check "Git Pocket Guide" ISBN matches pattern "(978|979)(0|1)\d{9}" of ISBN standart</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-98.0.4758.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1645202181523' status='passed' stop='1645202181523'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-98.0.4758.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

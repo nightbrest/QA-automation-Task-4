@@ -1,0 +1,60 @@
+{
+  "uid" : "70c3ba3df4d6b416",
+  "name" : "",
+  "fullName" : "Testing and verifying of \"Browser Windows\" and \"Modal Dialogs\" modules on \"Alerts, Frame & Windows\" page: 1. As a user, I can click \"Browser Windows\" button.",
+  "historyId" : "bc6a67f5136f69a0e977e51dd0c0fb38",
+  "time" : {
+    "start" : 1645202164449,
+    "stop" : 1645202164530,
+    "duration" : 81
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Testing and verifying of \"Browser Windows\" and \"Modal Dialogs\" modules on \"Alerts, Frame & Windows\" page: 1. As a user, I can click \"Browser Windows\" button"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing and verifying of \"Browser Windows\" and \"Modal Dialogs\" modules on \"Alerts, Frame & Windows\" page: 1. As a user, I can click \"Browser Windows\" button"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "Testing and verifying of \"Browser Windows\" and \"Modal Dialogs\" modules on \"Alerts, Frame & Windows\" page: 1. As a user, I can click \"Browser Windows\" button"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-98.0.4758.102"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "70c3ba3df4d6b416.json",
+  "parameterValues" : [ "chrome-98.0.4758.102" ]
+}

@@ -1,0 +1,62 @@
+{
+  "uid" : "8cdc475ca6ade43c",
+  "name" : "When I right-click \"Right Click Me\" button",
+  "fullName" : "Testing and verifying \"Text Box\" and \"Buttons\" of Element’s module: 2. As a user, I can click \"Buttons\" button.When I right-click \"Right Click Me\" button",
+  "historyId" : "14de113e0794e58a1f6d025df42a4db0",
+  "time" : {
+    "start" : 1645202184381,
+    "stop" : 1645202184641,
+    "duration" : 260
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "Testing and verifying \"Text Box\" and \"Buttons\" of Element’s module: 2. As a user, I can click \"Buttons\" button"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing and verifying \"Text Box\" and \"Buttons\" of Element’s module: 2. As a user, I can click \"Buttons\" button"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I right-click \"Right Click Me\" button"
+  }, {
+    "name" : "package",
+    "value" : "Testing and verifying \"Text Box\" and \"Buttons\" of Element’s module: 2. As a user, I can click \"Buttons\" button"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-98.0.4758.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8cdc475ca6ade43c.json",
+  "parameterValues" : [ "chrome-98.0.4758.102" ]
+}

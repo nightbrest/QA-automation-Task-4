@@ -3,6 +3,7 @@ const bookStorePage = require('../pageobjects/bookStorePage');
 const {expect, assert} = require('chai');
 
 Given(/^I am on "Book Store Application" submodule page with url "(.*)"$/, async (booksUrl) => {
+    await browser.maximizeWindow();
     await bookStorePage.open(booksUrl);
     expect (await browser.getUrl()).to.equal(booksUrl);
 });

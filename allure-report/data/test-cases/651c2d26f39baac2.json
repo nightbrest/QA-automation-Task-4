@@ -1,0 +1,62 @@
+{
+  "uid" : "651c2d26f39baac2",
+  "name" : "When I hover \"SUB SUB LIST »\"",
+  "fullName" : "Testing and verifying of \"Tabs\" and \"Menu\" modules on \"Widgets\" page: 4. As a user, I can check functionality of Menu page.When I hover \"SUB SUB LIST »\"",
+  "historyId" : "24e9a3c157c528fa38a5e547da3206b7",
+  "time" : {
+    "start" : 1645202212549,
+    "stop" : 1645202212599,
+    "duration" : 50
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-6"
+  }, {
+    "name" : "suite",
+    "value" : "Testing and verifying of \"Tabs\" and \"Menu\" modules on \"Widgets\" page: 4. As a user, I can check functionality of Menu page"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing and verifying of \"Tabs\" and \"Menu\" modules on \"Widgets\" page: 4. As a user, I can check functionality of Menu page"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I hover \"SUB SUB LIST »\""
+  }, {
+    "name" : "package",
+    "value" : "Testing and verifying of \"Tabs\" and \"Menu\" modules on \"Widgets\" page: 4. As a user, I can check functionality of Menu page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-98.0.4758.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "651c2d26f39baac2.json",
+  "parameterValues" : [ "chrome-98.0.4758.102" ]
+}

@@ -1,0 +1,62 @@
+{
+  "uid" : "447f6cc28a5dd457",
+  "name" : "Then I should see \"Git Pocket Guide\" information page",
+  "fullName" : "Testing and verifying of \"Book Store\" submodule of \"Book Store Application\" page: 2. As a user, I can check any book's ISBN matches pattern.Then I should see \"Git Pocket Guide\" information page",
+  "historyId" : "1a29eb6f6475fa81c75cb0640340d608",
+  "time" : {
+    "start" : 1645202181252,
+    "stop" : 1645202181421,
+    "duration" : 169
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Testing and verifying of \"Book Store\" submodule of \"Book Store Application\" page: 2. As a user, I can check any book's ISBN matches pattern"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing and verifying of \"Book Store\" submodule of \"Book Store Application\" page: 2. As a user, I can check any book's ISBN matches pattern"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I should see \"Git Pocket Guide\" information page"
+  }, {
+    "name" : "package",
+    "value" : "Testing and verifying of \"Book Store\" submodule of \"Book Store Application\" page: 2. As a user, I can check any book's ISBN matches pattern"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-98.0.4758.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "447f6cc28a5dd457.json",
+  "parameterValues" : [ "chrome-98.0.4758.102" ]
+}

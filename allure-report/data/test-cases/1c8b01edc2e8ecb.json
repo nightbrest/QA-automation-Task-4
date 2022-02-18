@@ -1,0 +1,70 @@
+{
+  "uid" : "1c8b01edc2e8ecb",
+  "name" : "",
+  "fullName" : "Testing and verifying main fuctualities of start page: 1. As a user, I can click any clicable item on start page and verify that is working.",
+  "historyId" : "d77bfc7e53cbb3dcffd8b4f45b6540bd",
+  "time" : {
+    "start" : 1645202197185,
+    "stop" : 1645202197186,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-4"
+  }, {
+    "name" : "suite",
+    "value" : "Testing and verifying main fuctualities of start page: 1. As a user, I can click any clicable item on start page and verify that is working"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing and verifying main fuctualities of start page: 1. As a user, I can click any clicable item on start page and verify that is working"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "Testing and verifying main fuctualities of start page: 1. As a user, I can click any clicable item on start page and verify that is working"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-98.0.4758.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "68187a933b218b0f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1645202163853,
+        "stop" : 1645202163857,
+        "duration" : 4
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1c8b01edc2e8ecb.json",
+  "parameterValues" : [ "chrome-98.0.4758.102" ]
+}

@@ -1,0 +1,114 @@
+{
+  "total" : 17,
+  "items" : [ {
+    "uid" : "5cd718352261a90e5c5cbe0eb6c1737f",
+    "name" : "Testing and verifying of filling and submitting the form of \"Forms\" module: 1. As a user, I can correct fill and submit the form",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 40,
+      "unknown" : 0,
+      "total" : 40
+    }
+  }, {
+    "uid" : "5e1c1dd1d897061ae04a0b9c6b5d0cbd",
+    "name" : "Testing and verifying main fuctualities of start page: 1. As a user, I can click any clicable item on start page and verify that is working",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 18,
+      "unknown" : 0,
+      "total" : 18
+    }
+  }, {
+    "uid" : "753bd9c873cea51f397bd9856c311a2e",
+    "name" : "Testing and verifying \"Text Box\" and \"Buttons\" of Element’s module: 1. As a user, I can click \"Text Box\" button",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 15,
+      "unknown" : 0,
+      "total" : 15
+    }
+  }, {
+    "uid" : "bd9291ac5f736da996bf4c4bed6954f1",
+    "name" : "Testing and verifying of \"Browser Windows\" and \"Modal Dialogs\" modules on \"Alerts, Frame & Windows\" page: 1. As a user, I can click \"Browser Windows\" button",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 15,
+      "unknown" : 0,
+      "total" : 15
+    }
+  }, {
+    "uid" : "86679fb6fb1fae24270e65ee6d65db35",
+    "name" : "Testing and verifying of \"Tabs\" and \"Menu\" modules on \"Widgets\" page: 4. As a user, I can check functionality of Menu page",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 13,
+      "unknown" : 0,
+      "total" : 13
+    }
+  }, {
+    "uid" : "43e058532791d2a18b5e95a1100212d9",
+    "name" : "Testing and verifying of \"Browser Windows\" and \"Modal Dialogs\" modules on \"Alerts, Frame & Windows\" page: 2. As a user, I can click \"Modal Dialogs\" button",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 12,
+      "unknown" : 0,
+      "total" : 12
+    }
+  }, {
+    "uid" : "59d4e96d0ef01bc4cf5814bbc5212c06",
+    "name" : "Testing and verifying of \"Book Store\" submodule of \"Book Store Application\" page: 4. As a user, I can check subtitle of every book in search result matches its title",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 11,
+      "unknown" : 0,
+      "total" : 11
+    }
+  }, {
+    "uid" : "585b04ec00410d391dbdecae1a5e3cf6",
+    "name" : "Testing and verifying \"Text Box\" and \"Buttons\" of Element’s module: 2. As a user, I can click \"Buttons\" button",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 7
+    }
+  }, {
+    "uid" : "46a9a78f09527c688ca3341e29e111ac",
+    "name" : "Testing and verifying of \"Tabs\" and \"Menu\" modules on \"Widgets\" page: 2. As a user, I can check functionality of Tabs page",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 7
+    }
+  }, {
+    "uid" : "013334794e246cab630d5416808eb73a",
+    "name" : "Testing and verifying of \"Sortable\" tab items in \"Interactions\" module: 3. As a user, I can check the functionality of \"Grid\" tab elements",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    }
+  } ]
+}

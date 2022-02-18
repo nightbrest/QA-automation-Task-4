@@ -1,0 +1,77 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1645202204194' stop='1645202208539'>
+    <name>Testing and verifying of "Tabs" and "Menu" modules on "Widgets" page: 1. As a user, I can click "Tabs" button</name>
+    <title>Testing and verifying of "Tabs" and "Menu" modules on "Widgets" page: 1. As a user, I can click "Tabs" button</title>
+    <test-cases>
+        <test-case start='1645202204195' status='passed' stop='1645202204197'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-6'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-98.0.4758.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1645202204198' status='passed' stop='1645202208360'>
+            <name>Given I am on "Widgets" module page with url "https://demoqa.com/widgets"</name>
+            <title>Given I am on "Widgets" module page with url "https://demoqa.com/widgets"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-6'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-98.0.4758.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1645202208360' status='passed' stop='1645202208509'>
+            <name>When I click "Tabs" button</name>
+            <title>When I click "Tabs" button</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-6'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-98.0.4758.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1645202208509' status='passed' stop='1645202208536'>
+            <name>Then I should see Tabs page with url "https://demoqa.com/tabs"</name>
+            <title>Then I should see Tabs page with url "https://demoqa.com/tabs"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-6'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-98.0.4758.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1645202208537' status='passed' stop='1645202208538'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-6'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-98.0.4758.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

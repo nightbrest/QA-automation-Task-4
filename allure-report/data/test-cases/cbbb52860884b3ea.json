@@ -1,0 +1,62 @@
+{
+  "uid" : "cbbb52860884b3ea",
+  "name" : "Given I am on Element’s module page",
+  "fullName" : "Testing and verifying \"Text Box\" and \"Buttons\" of Element’s module: 1. As a user, I can click \"Text Box\" button.Given I am on Element’s module page",
+  "historyId" : "ebbee7d798682330a52b852518e2acb1",
+  "time" : {
+    "start" : 1645202164006,
+    "stop" : 1645202172230,
+    "duration" : 8224
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "Testing and verifying \"Text Box\" and \"Buttons\" of Element’s module: 1. As a user, I can click \"Text Box\" button"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing and verifying \"Text Box\" and \"Buttons\" of Element’s module: 1. As a user, I can click \"Text Box\" button"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on Element’s module page"
+  }, {
+    "name" : "package",
+    "value" : "Testing and verifying \"Text Box\" and \"Buttons\" of Element’s module: 1. As a user, I can click \"Text Box\" button"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-98.0.4758.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cbbb52860884b3ea.json",
+  "parameterValues" : [ "chrome-98.0.4758.102" ]
+}

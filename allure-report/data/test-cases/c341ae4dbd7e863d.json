@@ -1,0 +1,62 @@
+{
+  "uid" : "c341ae4dbd7e863d",
+  "name" : "Then I should see Menu page with url \"https://demoqa.com/menu\"",
+  "fullName" : "Testing and verifying of \"Tabs\" and \"Menu\" modules on \"Widgets\" page: 3. As a user, I can click \"Menu\" button.Then I should see Menu page with url \"https://demoqa.com/menu\"",
+  "historyId" : "e25b7264b97479a45087c87dd385ac47",
+  "time" : {
+    "start" : 1645202212241,
+    "stop" : 1645202212251,
+    "duration" : 10
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-6"
+  }, {
+    "name" : "suite",
+    "value" : "Testing and verifying of \"Tabs\" and \"Menu\" modules on \"Widgets\" page: 3. As a user, I can click \"Menu\" button"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing and verifying of \"Tabs\" and \"Menu\" modules on \"Widgets\" page: 3. As a user, I can click \"Menu\" button"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I should see Menu page with url \"https://demoqa.com/menu\""
+  }, {
+    "name" : "package",
+    "value" : "Testing and verifying of \"Tabs\" and \"Menu\" modules on \"Widgets\" page: 3. As a user, I can click \"Menu\" button"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-98.0.4758.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c341ae4dbd7e863d.json",
+  "parameterValues" : [ "chrome-98.0.4758.102" ]
+}

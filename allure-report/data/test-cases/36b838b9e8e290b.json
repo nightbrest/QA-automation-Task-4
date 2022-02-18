@@ -1,0 +1,62 @@
+{
+  "uid" : "36b838b9e8e290b",
+  "name" : "Then I should see the text \"This is a sample page\" on the page",
+  "fullName" : "Testing and verifying of \"Browser Windows\" and \"Modal Dialogs\" modules on \"Alerts, Frame & Windows\" page: 1. As a user, I can click \"Browser Windows\" button.Then I should see the text \"This is a sample page\" on the page",
+  "historyId" : "43b3fb9a97ea023c6b06bba346011b17",
+  "time" : {
+    "start" : 1645202175011,
+    "stop" : 1645202175112,
+    "duration" : 101
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Testing and verifying of \"Browser Windows\" and \"Modal Dialogs\" modules on \"Alerts, Frame & Windows\" page: 1. As a user, I can click \"Browser Windows\" button"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing and verifying of \"Browser Windows\" and \"Modal Dialogs\" modules on \"Alerts, Frame & Windows\" page: 1. As a user, I can click \"Browser Windows\" button"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I should see the text \"This is a sample page\" on the page"
+  }, {
+    "name" : "package",
+    "value" : "Testing and verifying of \"Browser Windows\" and \"Modal Dialogs\" modules on \"Alerts, Frame & Windows\" page: 1. As a user, I can click \"Browser Windows\" button"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-98.0.4758.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "36b838b9e8e290b.json",
+  "parameterValues" : [ "chrome-98.0.4758.102" ]
+}

@@ -3,6 +3,7 @@ const interactionsPage = require('../pageobjects/interactionsPage');
 const {expect} = require('chai');
 
 Given(/^I am on "Interactions" module page with url "(.*)"$/, async (interUrl) => {
+    await browser.maximizeWindow();
     await interactionsPage.open(interUrl);
     expect (await browser.getUrl()).to.equal(interUrl);
 });
@@ -22,7 +23,7 @@ When(/^I drag the list item "One" and move it in the end of list$/, async () => 
 });
 
 Then(/^I should see the list item "One" took the place of list item "Six"$/, async () => {
-    await browser.pause(1000);
+    await browser.pause(1500);
     expect(await (interactionsPage.listItemSix).getText()).to.contain('One')
 });
 
@@ -43,6 +44,7 @@ When(/^I drag the list item "One" and move it right to the end of list$/, async 
 });
 
 Then(/^I should see element "One" is replaced by the element "Three"$/, async () => {
+    await browser.pause(1500);
     expect(await (interactionsPage.gridItemOne).getText()).to.contain('Two')
 });
 

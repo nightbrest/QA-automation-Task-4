@@ -1,0 +1,62 @@
+{
+  "uid" : "4e1ba7f1ff24c0a",
+  "name" : "Then I should see \"Male\" chechbox became active",
+  "fullName" : "Testing and verifying of filling and submitting the form of \"Forms\" module: 1. As a user, I can correct fill and submit the form.Then I should see \"Male\" chechbox became active",
+  "historyId" : "dfbcc4415642c6df960ef67124b5aec7",
+  "time" : {
+    "start" : 1645202181445,
+    "stop" : 1645202181569,
+    "duration" : 124
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "Testing and verifying of filling and submitting the form of \"Forms\" module: 1. As a user, I can correct fill and submit the form"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing and verifying of filling and submitting the form of \"Forms\" module: 1. As a user, I can correct fill and submit the form"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I should see \"Male\" chechbox became active"
+  }, {
+    "name" : "package",
+    "value" : "Testing and verifying of filling and submitting the form of \"Forms\" module: 1. As a user, I can correct fill and submit the form"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-98.0.4758.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4e1ba7f1ff24c0a.json",
+  "parameterValues" : [ "chrome-98.0.4758.102" ]
+}

@@ -1,0 +1,62 @@
+{
+  "uid" : "5d25ed0360bdc881",
+  "name" : "When I click \"New Window Message\" button",
+  "fullName" : "Testing and verifying of \"Browser Windows\" and \"Modal Dialogs\" modules on \"Alerts, Frame & Windows\" page: 1. As a user, I can click \"Browser Windows\" button.When I click \"New Window Message\" button",
+  "historyId" : "90627969b827b29f9b3578fb79a9563d",
+  "time" : {
+    "start" : 1645202176129,
+    "stop" : 1645202176381,
+    "duration" : 252
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Testing and verifying of \"Browser Windows\" and \"Modal Dialogs\" modules on \"Alerts, Frame & Windows\" page: 1. As a user, I can click \"Browser Windows\" button"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing and verifying of \"Browser Windows\" and \"Modal Dialogs\" modules on \"Alerts, Frame & Windows\" page: 1. As a user, I can click \"Browser Windows\" button"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I click \"New Window Message\" button"
+  }, {
+    "name" : "package",
+    "value" : "Testing and verifying of \"Browser Windows\" and \"Modal Dialogs\" modules on \"Alerts, Frame & Windows\" page: 1. As a user, I can click \"Browser Windows\" button"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-98.0.4758.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5d25ed0360bdc881.json",
+  "parameterValues" : [ "chrome-98.0.4758.102" ]
+}

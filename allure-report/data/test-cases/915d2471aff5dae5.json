@@ -1,0 +1,62 @@
+{
+  "uid" : "915d2471aff5dae5",
+  "name" : "When I click \"TOOLS QA\" label",
+  "fullName" : "Testing and verifying main fuctualities of start page: 1. As a user, I can click any clicable item on start page and verify that is working.When I click \"TOOLS QA\" label",
+  "historyId" : "b3d3f38188bdd6afb618b6cca88f9a7",
+  "time" : {
+    "start" : 1645202195683,
+    "stop" : 1645202196498,
+    "duration" : 815
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-4"
+  }, {
+    "name" : "suite",
+    "value" : "Testing and verifying main fuctualities of start page: 1. As a user, I can click any clicable item on start page and verify that is working"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing and verifying main fuctualities of start page: 1. As a user, I can click any clicable item on start page and verify that is working"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I click \"TOOLS QA\" label"
+  }, {
+    "name" : "package",
+    "value" : "Testing and verifying main fuctualities of start page: 1. As a user, I can click any clicable item on start page and verify that is working"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-98.0.4758.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "915d2471aff5dae5.json",
+  "parameterValues" : [ "chrome-98.0.4758.102" ]
+}

@@ -1,0 +1,62 @@
+{
+  "uid" : "c0e6f3335de24291",
+  "name" : "When I fill Last name field with \"Ivanov\"",
+  "fullName" : "Testing and verifying of filling and submitting the form of \"Forms\" module: 1. As a user, I can correct fill and submit the form.When I fill Last name field with \"Ivanov\"",
+  "historyId" : "70de5ef00f6a5f090c79fbcbdcc68bad",
+  "time" : {
+    "start" : 1645202179663,
+    "stop" : 1645202180228,
+    "duration" : 565
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "Testing and verifying of filling and submitting the form of \"Forms\" module: 1. As a user, I can correct fill and submit the form"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing and verifying of filling and submitting the form of \"Forms\" module: 1. As a user, I can correct fill and submit the form"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I fill Last name field with \"Ivanov\""
+  }, {
+    "name" : "package",
+    "value" : "Testing and verifying of filling and submitting the form of \"Forms\" module: 1. As a user, I can correct fill and submit the form"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-98.0.4758.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c0e6f3335de24291.json",
+  "parameterValues" : [ "chrome-98.0.4758.102" ]
+}

@@ -1,0 +1,62 @@
+{
+  "uid" : "c32dbf2abaaf2fb7",
+  "name" : "And I can check \"Git Pocket Guide\" ISBN matches pattern \"(978|979)(0|1)\\d{9}\" of ISBN standart",
+  "fullName" : "Testing and verifying of \"Book Store\" submodule of \"Book Store Application\" page: 2. As a user, I can check any book's ISBN matches pattern.And I can check \"Git Pocket Guide\" ISBN matches pattern \"(978|979)(0|1)\\d{9}\" of ISBN standart",
+  "historyId" : "d6266954e6e7cfb65146b1c50529fd24",
+  "time" : {
+    "start" : 1645202181422,
+    "stop" : 1645202181522,
+    "duration" : 100
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Testing and verifying of \"Book Store\" submodule of \"Book Store Application\" page: 2. As a user, I can check any book's ISBN matches pattern"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing and verifying of \"Book Store\" submodule of \"Book Store Application\" page: 2. As a user, I can check any book's ISBN matches pattern"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I can check \"Git Pocket Guide\" ISBN matches pattern \"(978|979)(0|1)\\d{9}\" of ISBN standart"
+  }, {
+    "name" : "package",
+    "value" : "Testing and verifying of \"Book Store\" submodule of \"Book Store Application\" page: 2. As a user, I can check any book's ISBN matches pattern"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-98.0.4758.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c32dbf2abaaf2fb7.json",
+  "parameterValues" : [ "chrome-98.0.4758.102" ]
+}

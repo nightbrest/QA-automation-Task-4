@@ -1,0 +1,62 @@
+{
+  "uid" : "5df4cfd0eb1c99e6",
+  "name" : "When I click \"Sub Sub Item 2\"",
+  "fullName" : "Testing and verifying of \"Tabs\" and \"Menu\" modules on \"Widgets\" page: 4. As a user, I can check functionality of Menu page.When I click \"Sub Sub Item 2\"",
+  "historyId" : "a151388ba85a7a38421d04eb16a2e42f",
+  "time" : {
+    "start" : 1645202212846,
+    "stop" : 1645202212911,
+    "duration" : 65
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-6"
+  }, {
+    "name" : "suite",
+    "value" : "Testing and verifying of \"Tabs\" and \"Menu\" modules on \"Widgets\" page: 4. As a user, I can check functionality of Menu page"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing and verifying of \"Tabs\" and \"Menu\" modules on \"Widgets\" page: 4. As a user, I can check functionality of Menu page"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I click \"Sub Sub Item 2\""
+  }, {
+    "name" : "package",
+    "value" : "Testing and verifying of \"Tabs\" and \"Menu\" modules on \"Widgets\" page: 4. As a user, I can check functionality of Menu page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-98.0.4758.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5df4cfd0eb1c99e6.json",
+  "parameterValues" : [ "chrome-98.0.4758.102" ]
+}

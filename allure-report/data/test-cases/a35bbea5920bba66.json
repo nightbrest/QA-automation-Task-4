@@ -1,0 +1,62 @@
+{
+  "uid" : "a35bbea5920bba66",
+  "name" : "When I click \"Git Pocket Guide\" book's title",
+  "fullName" : "Testing and verifying of \"Book Store\" submodule of \"Book Store Application\" page: 2. As a user, I can check any book's ISBN matches pattern.When I click \"Git Pocket Guide\" book's title",
+  "historyId" : "fc7477aa1348663f8e7c4e4a5f2f3450",
+  "time" : {
+    "start" : 1645202172566,
+    "stop" : 1645202181252,
+    "duration" : 8686
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Testing and verifying of \"Book Store\" submodule of \"Book Store Application\" page: 2. As a user, I can check any book's ISBN matches pattern"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing and verifying of \"Book Store\" submodule of \"Book Store Application\" page: 2. As a user, I can check any book's ISBN matches pattern"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I click \"Git Pocket Guide\" book's title"
+  }, {
+    "name" : "package",
+    "value" : "Testing and verifying of \"Book Store\" submodule of \"Book Store Application\" page: 2. As a user, I can check any book's ISBN matches pattern"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-98.0.4758.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a35bbea5920bba66.json",
+  "parameterValues" : [ "chrome-98.0.4758.102" ]
+}

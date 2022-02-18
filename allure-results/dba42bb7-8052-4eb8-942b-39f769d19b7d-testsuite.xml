@@ -1,0 +1,77 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1645202203292' stop='1645202208072'>
+    <name>Testing and verifying of "Sortable" tab items in "Interactions" module: 1. As a user, I can click "Sortable" button</name>
+    <title>Testing and verifying of "Sortable" tab items in "Interactions" module: 1. As a user, I can click "Sortable" button</title>
+    <test-cases>
+        <test-case start='1645202203293' status='passed' stop='1645202203295'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-5'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-98.0.4758.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1645202203295' status='passed' stop='1645202207482'>
+            <name>Given I am on "Interactions" module page with url "https://demoqa.com/interaction"</name>
+            <title>Given I am on "Interactions" module page with url "https://demoqa.com/interaction"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-5'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-98.0.4758.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1645202207482' status='passed' stop='1645202207640'>
+            <name>When I click "Sortable" button</name>
+            <title>When I click "Sortable" button</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-5'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-98.0.4758.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1645202207640' status='passed' stop='1645202208070'>
+            <name>Then I should see "Sortable" submodule tabs with tab "List" as active</name>
+            <title>Then I should see "Sortable" submodule tabs with tab "List" as active</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-5'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-98.0.4758.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1645202208070' status='passed' stop='1645202208071'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-5'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-98.0.4758.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,62 @@
+{
+  "uid" : "72501e64f4fa6c7c",
+  "name" : "When I drag the list item \"One\" and move it in the end of list",
+  "fullName" : "Testing and verifying of \"Sortable\" tab items in \"Interactions\" module: 2. As a user, I can check the functionality of \"List\" tab elements.When I drag the list item \"One\" and move it in the end of list",
+  "historyId" : "9e4959e4eba48af8cc26a7b1fb4a485c",
+  "time" : {
+    "start" : 1645202208096,
+    "stop" : 1645202208208,
+    "duration" : 112
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-5"
+  }, {
+    "name" : "suite",
+    "value" : "Testing and verifying of \"Sortable\" tab items in \"Interactions\" module: 2. As a user, I can check the functionality of \"List\" tab elements"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing and verifying of \"Sortable\" tab items in \"Interactions\" module: 2. As a user, I can check the functionality of \"List\" tab elements"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I drag the list item \"One\" and move it in the end of list"
+  }, {
+    "name" : "package",
+    "value" : "Testing and verifying of \"Sortable\" tab items in \"Interactions\" module: 2. As a user, I can check the functionality of \"List\" tab elements"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-98.0.4758.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "72501e64f4fa6c7c.json",
+  "parameterValues" : [ "chrome-98.0.4758.102" ]
+}

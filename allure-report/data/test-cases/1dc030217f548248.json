@@ -1,0 +1,62 @@
+{
+  "uid" : "1dc030217f548248",
+  "name" : "Given I am on start page",
+  "fullName" : "Testing and verifying main fuctualities of start page: 1. As a user, I can click any clicable item on start page and verify that is working.Given I am on start page",
+  "historyId" : "3be34f4f191c3d080711dcbb30d9bc7a",
+  "time" : {
+    "start" : 1645202163858,
+    "stop" : 1645202177848,
+    "duration" : 13990
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-4"
+  }, {
+    "name" : "suite",
+    "value" : "Testing and verifying main fuctualities of start page: 1. As a user, I can click any clicable item on start page and verify that is working"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing and verifying main fuctualities of start page: 1. As a user, I can click any clicable item on start page and verify that is working"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on start page"
+  }, {
+    "name" : "package",
+    "value" : "Testing and verifying main fuctualities of start page: 1. As a user, I can click any clicable item on start page and verify that is working"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-98.0.4758.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1dc030217f548248.json",
+  "parameterValues" : [ "chrome-98.0.4758.102" ]
+}

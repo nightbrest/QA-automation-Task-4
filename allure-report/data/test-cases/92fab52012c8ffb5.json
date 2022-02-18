@@ -1,0 +1,62 @@
+{
+  "uid" : "92fab52012c8ffb5",
+  "name" : "And I should see under registration form \"Email\":\"test@mail.ru\"",
+  "fullName" : "Testing and verifying \"Text Box\" and \"Buttons\" of Element’s module: 1. As a user, I can click \"Text Box\" button.And I should see under registration form \"Email\":\"test@mail.ru\"",
+  "historyId" : "2a961cb19cc6ebc786689744b33fd56a",
+  "time" : {
+    "start" : 1645202177519,
+    "stop" : 1645202177632,
+    "duration" : 113
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "Testing and verifying \"Text Box\" and \"Buttons\" of Element’s module: 1. As a user, I can click \"Text Box\" button"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing and verifying \"Text Box\" and \"Buttons\" of Element’s module: 1. As a user, I can click \"Text Box\" button"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I should see under registration form \"Email\":\"test@mail.ru\""
+  }, {
+    "name" : "package",
+    "value" : "Testing and verifying \"Text Box\" and \"Buttons\" of Element’s module: 1. As a user, I can click \"Text Box\" button"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-98.0.4758.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "92fab52012c8ffb5.json",
+  "parameterValues" : [ "chrome-98.0.4758.102" ]
+}

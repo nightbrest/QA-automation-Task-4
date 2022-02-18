@@ -1,0 +1,62 @@
+{
+  "uid" : "f78b29f43dc848b7",
+  "name" : "When I click Speaking JavaScript link",
+  "fullName" : "Testing and verifying of \"Book Store\" submodule of \"Book Store Application\" page: 4. As a user, I can check subtitle of every book in search result matches its title.When I click Speaking JavaScript link",
+  "historyId" : "ad8c2fc202acac07361fdafc780355a2",
+  "time" : {
+    "start" : 1645202194204,
+    "stop" : 1645202195127,
+    "duration" : 923
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Testing and verifying of \"Book Store\" submodule of \"Book Store Application\" page: 4. As a user, I can check subtitle of every book in search result matches its title"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing and verifying of \"Book Store\" submodule of \"Book Store Application\" page: 4. As a user, I can check subtitle of every book in search result matches its title"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I click Speaking JavaScript link"
+  }, {
+    "name" : "package",
+    "value" : "Testing and verifying of \"Book Store\" submodule of \"Book Store Application\" page: 4. As a user, I can check subtitle of every book in search result matches its title"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-98.0.4758.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f78b29f43dc848b7.json",
+  "parameterValues" : [ "chrome-98.0.4758.102" ]
+}

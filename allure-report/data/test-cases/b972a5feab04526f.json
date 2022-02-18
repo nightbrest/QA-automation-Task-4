@@ -1,0 +1,62 @@
+{
+  "uid" : "b972a5feab04526f",
+  "name" : "Then I should see element \"One\" is replaced by the element \"Three\"",
+  "fullName" : "Testing and verifying of \"Sortable\" tab items in \"Interactions\" module: 3. As a user, I can check the functionality of \"Grid\" tab elements.Then I should see element \"One\" is replaced by the element \"Three\"",
+  "historyId" : "8077f578914ce22bbcb06ce81cb0f0c2",
+  "time" : {
+    "start" : 1645202210079,
+    "stop" : 1645202211608,
+    "duration" : 1529
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-5"
+  }, {
+    "name" : "suite",
+    "value" : "Testing and verifying of \"Sortable\" tab items in \"Interactions\" module: 3. As a user, I can check the functionality of \"Grid\" tab elements"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing and verifying of \"Sortable\" tab items in \"Interactions\" module: 3. As a user, I can check the functionality of \"Grid\" tab elements"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I should see element \"One\" is replaced by the element \"Three\""
+  }, {
+    "name" : "package",
+    "value" : "Testing and verifying of \"Sortable\" tab items in \"Interactions\" module: 3. As a user, I can check the functionality of \"Grid\" tab elements"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-98.0.4758.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b972a5feab04526f.json",
+  "parameterValues" : [ "chrome-98.0.4758.102" ]
+}
