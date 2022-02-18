@@ -67,12 +67,8 @@ When(/^I click "New Window Message" button$/, async () => {
 });
 
 Then(/^I should see message window with text "Knowledge increases by sharing but not by saving. Please share this website with your friends and in your organization." appears$/, async () => {
-    // await browser.pause(5000)
     const handles = await browser.getWindowHandles();
     await browser.switchToWindow(handles[1]);
-    // expect(await (alertsPage.windowText).getText()).to.contain('Knowledge increases');
-    // console.log('1111111');
-    // console.log(await browser.getTitle());
     await browser.closeWindow();
     await browser.switchToWindow(handles[0]);
 });

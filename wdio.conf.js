@@ -21,7 +21,7 @@ exports.config = {
     // will be called from there.
     //
     specs: [
-        './features/**/interactionsPageTesting.feature'
+        './features/**/bookStoreApplicationPageTesting.feature'
     ],
     // Patterns to exclude.
     exclude: [

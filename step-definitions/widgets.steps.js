@@ -8,7 +8,7 @@ Given(/^I am on "Widgets" module page with url "(.*)"$/, async (widgUrl) => {
     await widgetsPage.open('https://demoqa.com/widgets');
     expect (await browser.getUrl()).to.equal(widgUrl);
 });
-// ssssss
+
 When(/^I click "Tabs" button$/, async () => {
     await widgetsPage.tabsBtn.scrollIntoView();
     await widgetsPage.tabsBtn.click();
