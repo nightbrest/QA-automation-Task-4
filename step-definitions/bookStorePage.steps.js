@@ -18,8 +18,8 @@ Then(/^I should see book store with book items appeared$/, async () => {
 });
 
 When(/^I click "Git Pocket Guide" book's title$/, async () => {
-    await bookStorePage.bookTitl.scrollIntoView();
-    await bookStorePage.bookTitl.click();
+    await bookStorePage.bookTitle.scrollIntoView();
+    await bookStorePage.bookTitle.click();
 });
 
 Then(/^I should see "Git Pocket Guide" information page$/, async () => {
@@ -43,7 +43,7 @@ When(/^I tape keyword "(.*)" in the search field$/, async (searchWord) => {
 
 Then(/^I should see as a search result following books$/, async (table) => {
     const expected = [].concat(...table.rows());
-    const actual = await bookStorePage.BooksTitlesRow();
+    const actual = await bookStorePage.booksTitlesRow();
     assert.sameMembers(expected, actual, `expected :\n${expected.sort()} actual :\n${actual.sort()}\n`);
 });
 
