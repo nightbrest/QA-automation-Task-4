@@ -55,3 +55,4 @@ When(/^I click (.*) link$/, async (bookTitle) => {
 Then(/^I should see (.*) matches book's title$/, async (bookSubTitle) => {
     expect(await bookStorePage.changingBookSubTitle(bookSubTitle).isDisplayed()).is.equal(true);
 });
+

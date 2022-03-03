@@ -32,7 +32,7 @@ class bookStorePage extends Page {
 
     get searchBox() { return $(selectors.searchBox) };
 
-    BooksTitlesRow() {
+    booksTitlesRow() {
         const booksTitlesArray = this.bookItem.map(qq => qq.getText());
         return booksTitlesArray;
     };
